@@ -11,7 +11,7 @@ Sou um desenvolvedor full stack apaixonado por tecnologia, especializado em cria
 - **Ferramentas de Desenvolvimento**: Visual Studio, Git, VSCode
 
 ## 📱 Desenvolvimento Mobile
-Tenho experiência em desenvolver aplicações mobile utilizando C#, integrando tecnologias de ponta para proporcionar uma experiência de usuário agradável.
+Experiência em desenvolver aplicações mobile utilizando C#, integrando tecnologias de ponta para proporcionar uma experiência de usuário agradável.
 
 ## 💡 Sobre Mim
 Sou entusiasta de gadgets tecnológicos e sempre busco estar atualizado com as últimas tendências no mundo da tecnologia.
